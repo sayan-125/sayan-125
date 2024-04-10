@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sayan-125/sayan-125/blob/main/sayan.png)
 <h1 align="center">Hi 👋, I'm Sayan Aich</h1>
 <h3 align="center">A passionate cybersecurity expert from India</h3>
 
