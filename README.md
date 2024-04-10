@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Aich</h1>
 <h3 align="center">A passionate cybersecurity expert from India</h3>
 
-<img align="right" alt="hacking" width="400" src="![hacker](https://github.com/sayan-125/sayan-125/assets/158836588/4336288e-fad3-4a82-bf73-b8266558320b)">
+<img align="right" alt="hacking" width="400" src="https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.gif">
 
 
 
