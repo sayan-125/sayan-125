@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayan Aich</h1>
 <h3 align="center">A passionate cybersecurity expert from India</h3>
 
-<img align="right" alt="hacking" width="400" src="https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.gif">
+<img align="right" alt="hacking" width="400" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif">
+
 
 
 
