@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayan Aich</h1>
 <h3 align="center">A passionate cybersecurity expert from India</h3>
 
-<img align="right" alt="hacking" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacker-gifs&psig=AOvVaw0OC_t5etc5B_RFqCf0K5HX&ust=1712815150513000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjpu-z7toUDFQAAAAAdAAAAABAl">
+<img align="right" alt="hacking" width="400" src="![hacker](https://github.com/sayan-125/sayan-125/assets/158836588/4336288e-fad3-4a82-bf73-b8266558320b)">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-125&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-125" /> </p>
 
